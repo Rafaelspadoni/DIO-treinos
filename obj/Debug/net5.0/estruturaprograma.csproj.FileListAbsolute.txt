@@ -1,0 +1,16 @@
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\bin\Debug\net5.0\estruturaprograma.exe
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\bin\Debug\net5.0\estruturaprograma.deps.json
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\bin\Debug\net5.0\estruturaprograma.runtimeconfig.json
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\bin\Debug\net5.0\estruturaprograma.runtimeconfig.dev.json
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\bin\Debug\net5.0\estruturaprograma.dll
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\bin\Debug\net5.0\ref\estruturaprograma.dll
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\bin\Debug\net5.0\estruturaprograma.pdb
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\obj\Debug\net5.0\estruturaprograma.csprojAssemblyReference.cache
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\obj\Debug\net5.0\estruturaprograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\obj\Debug\net5.0\estruturaprograma.AssemblyInfoInputs.cache
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\obj\Debug\net5.0\estruturaprograma.AssemblyInfo.cs
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\obj\Debug\net5.0\estruturaprograma.csproj.CoreCompileInputs.cache
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\obj\Debug\net5.0\estruturaprograma.dll
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\obj\Debug\net5.0\ref\estruturaprograma.dll
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\obj\Debug\net5.0\estruturaprograma.pdb
+D:\Eu\estudo\C#\attsDIO\estruturaprograma\obj\Debug\net5.0\estruturaprograma.genruntimeconfig.cache

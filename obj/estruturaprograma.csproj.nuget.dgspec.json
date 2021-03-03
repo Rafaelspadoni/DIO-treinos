@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\eu\\estudo\\c#\\attsdio\\estruturaprograma\\estruturaprograma.csproj": {}
+    "D:\\Eu\\estudo\\C#\\attsDIO\\estruturaprograma\\estruturaprograma.csproj": {}
   },
   "projects": {
-    "D:\\eu\\estudo\\c#\\attsdio\\estruturaprograma\\estruturaprograma.csproj": {
+    "D:\\Eu\\estudo\\C#\\attsDIO\\estruturaprograma\\estruturaprograma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\eu\\estudo\\c#\\attsdio\\estruturaprograma\\estruturaprograma.csproj",
+        "projectUniqueName": "D:\\Eu\\estudo\\C#\\attsDIO\\estruturaprograma\\estruturaprograma.csproj",
         "projectName": "estruturaprograma",
-        "projectPath": "D:\\eu\\estudo\\c#\\attsdio\\estruturaprograma\\estruturaprograma.csproj",
+        "projectPath": "D:\\Eu\\estudo\\C#\\attsDIO\\estruturaprograma\\estruturaprograma.csproj",
         "packagesPath": "C:\\Users\\rafas\\.nuget\\packages\\",
-        "outputPath": "D:\\eu\\estudo\\c#\\attsdio\\estruturaprograma\\obj\\",
+        "outputPath": "D:\\Eu\\estudo\\C#\\attsDIO\\estruturaprograma\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
