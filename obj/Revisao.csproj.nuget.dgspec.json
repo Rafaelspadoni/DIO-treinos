@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Eu\\estudo\\C#\\attsDIO\\Revisão\\revisao\\Revisao.csproj": {}
+    "D:\\Eu\\estudo\\C#\\attsDIO\\Revisão\\Revisao\\Revisao.csproj": {}
   },
   "projects": {
-    "D:\\Eu\\estudo\\C#\\attsDIO\\Revisão\\revisao\\Revisao.csproj": {
+    "D:\\Eu\\estudo\\C#\\attsDIO\\Revisão\\Revisao\\Revisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Eu\\estudo\\C#\\attsDIO\\Revisão\\revisao\\Revisao.csproj",
+        "projectUniqueName": "D:\\Eu\\estudo\\C#\\attsDIO\\Revisão\\Revisao\\Revisao.csproj",
         "projectName": "Revisao",
-        "projectPath": "D:\\Eu\\estudo\\C#\\attsDIO\\Revisão\\revisao\\Revisao.csproj",
+        "projectPath": "D:\\Eu\\estudo\\C#\\attsDIO\\Revisão\\Revisao\\Revisao.csproj",
         "packagesPath": "C:\\Users\\rafas\\.nuget\\packages\\",
-        "outputPath": "D:\\Eu\\estudo\\C#\\attsDIO\\Revisão\\revisao\\obj\\",
+        "outputPath": "D:\\Eu\\estudo\\C#\\attsDIO\\Revisão\\Revisao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
